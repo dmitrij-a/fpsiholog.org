@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Первые Воспоминания on Дом проектов Нелли Лисицы</title>
+    <link>http://192.168.1.27/tags/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B5-%D0%B2%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+    <description>Recent content in Первые Воспоминания on Дом проектов Нелли Лисицы</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Tue, 21 Jul 2015 16:05:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://192.168.1.27/tags/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B5-%D0%B2%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Выпуск 25. Наша память, первые воспоминания, зарождения сознания</title>
+      <link>http://192.168.1.27/podcast/2015/07/21/issue25/</link>
+      <pubDate>Tue, 21 Jul 2015 16:05:00 +0300</pubDate>
+      
+      <guid>http://192.168.1.27/podcast/2015/07/21/issue25/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Когда вспыхивает сознание?&lt;/li&gt;
+&lt;li&gt;Наши первые воспоминания, выдумка или реальность?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div class=&#34;audiocontent&#34;&gt;
+  &lt;audio controls preload=&#34;metadata&#34; style=&#34;width:100%;height:100%;&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;
+    &lt;source src=&#34;http://192.168.1.27/podcast/issue25.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
+    Ваш браузер не поддерживает воспроизведение аудио(HTML5).
+  &lt;/audio&gt;
+  &lt;a href=&#34;http://192.168.1.27/podcast/issue25.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
