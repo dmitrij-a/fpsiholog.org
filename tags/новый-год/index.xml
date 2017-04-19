@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Новый Год on Дом проектов Нелли Лисицы</title>
-    <link>http://fpsiholog.org/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B3%D0%BE%D0%B4/</link>
+    <link>/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B3%D0%BE%D0%B4/</link>
     <description>Recent content in Новый Год on Дом проектов Нелли Лисицы</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Sat, 26 Dec 2015 16:06:00 +0300</lastBuildDate>
     
-	<atom:link href="http://fpsiholog.org/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B3%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B3%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Выпуск 27. Последний подкаст уходящего года! С Новым годом!</title>
-      <link>http://fpsiholog.org/podcast/2015/12/26/issue27/</link>
+      <link>/podcast/2015/12/26/issue27/</link>
       <pubDate>Sat, 26 Dec 2015 16:06:00 +0300</pubDate>
       
-      <guid>http://fpsiholog.org/podcast/2015/12/26/issue27/</guid>
+      <guid>/podcast/2015/12/26/issue27/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Предновогодние ссоры&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Сколько раз нужно просить прощения чтобы простили?&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -27,10 +27,10 @@
 
 &lt;p&gt;&lt;div class=&#34;audiocontent&#34;&gt;
   &lt;audio controls preload=&#34;auto&#34; style=&#34;width:100%;height:100%;&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;
-    &lt;source src=&#34;http://fpsiholog.org/podcast/issue27.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
+    &lt;source src=&#34;/podcast/issue27.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
     Ваш браузер не поддерживает воспроизведение аудио(HTML5).
   &lt;/audio&gt;
-  &lt;a href=&#34;http://fpsiholog.org/podcast/issue27.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
+  &lt;a href=&#34;/podcast/issue27.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
     </item>
