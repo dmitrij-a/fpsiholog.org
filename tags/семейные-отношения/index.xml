@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Семейные Отношения on Дом проектов Нелли Лисицы</title>
-    <link>/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+    <link>http://fpsiholog.org/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/</link>
     <description>Recent content in Семейные Отношения on Дом проектов Нелли Лисицы</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Fri, 12 Sep 2014 18:00:00 +0300</lastBuildDate>
     
-	<atom:link href="/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://fpsiholog.org/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Выпуск 10. Принципы и амбиции — что это? Ну и просто ответы на ваши вопросы</title>
-      <link>/podcast/2014/09/12/issue10/</link>
+      <link>http://fpsiholog.org/podcast/2014/09/12/issue10/</link>
       <pubDate>Fri, 12 Sep 2014 18:00:00 +0300</pubDate>
       
-      <guid>/podcast/2014/09/12/issue10/</guid>
+      <guid>http://fpsiholog.org/podcast/2014/09/12/issue10/</guid>
       <description>&lt;p&gt;Примеры и разборы ваших принципов и амбиций.&lt;br&gt;
 Ответы на ваш часто задаваемый вопрос о цене консультаций.&lt;br&gt;
 Бывший муж хочет видеться с ребенком — стоит или не стоит?&lt;/p&gt;
@@ -26,20 +26,20 @@
 
 &lt;p&gt;&lt;div class=&#34;audiocontent&#34;&gt;
   &lt;audio controls preload=&#34;auto&#34; style=&#34;width:100%;height:100%;&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;
-    &lt;source src=&#34;/podcast/issue10.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
+    &lt;source src=&#34;http://fpsiholog.org/podcast/issue10.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
     Ваш браузер не поддерживает воспроизведение аудио(HTML5).
   &lt;/audio&gt;
-  &lt;a href=&#34;/podcast/issue10.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
+  &lt;a href=&#34;http://fpsiholog.org/podcast/issue10.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Выпуск 7. Психолог в семье как с этим жить?</title>
-      <link>/podcast/2014/08/20/issue07/</link>
+      <link>http://fpsiholog.org/podcast/2014/08/20/issue07/</link>
       <pubDate>Wed, 20 Aug 2014 20:54:00 +0300</pubDate>
       
-      <guid>/podcast/2014/08/20/issue07/</guid>
+      <guid>http://fpsiholog.org/podcast/2014/08/20/issue07/</guid>
       <description>&lt;p&gt;Что делать если в вашей семье психолог.&lt;br&gt;
 Вопросы:&lt;br&gt;
 Папа психолог&amp;hellip;&lt;br&gt;
@@ -49,10 +49,10 @@
 
 &lt;p&gt;&lt;div class=&#34;audiocontent&#34;&gt;
   &lt;audio controls preload=&#34;auto&#34; style=&#34;width:100%;height:100%;&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;
-    &lt;source src=&#34;/podcast/issue07.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
+    &lt;source src=&#34;http://fpsiholog.org/podcast/issue07.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
     Ваш браузер не поддерживает воспроизведение аудио(HTML5).
   &lt;/audio&gt;
-  &lt;a href=&#34;/podcast/issue07.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
+  &lt;a href=&#34;http://fpsiholog.org/podcast/issue07.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
     </item>

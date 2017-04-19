@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ответы На Вопросы on Дом проектов Нелли Лисицы</title>
-    <link>/tags/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/</link>
+    <link>http://fpsiholog.org/tags/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/</link>
     <description>Recent content in Ответы На Вопросы on Дом проектов Нелли Лисицы</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Tue, 24 Mar 2015 09:18:00 +0300</lastBuildDate>
     
-	<atom:link href="/tags/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://fpsiholog.org/tags/%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Выпуск 21. Опять весна! Опять про любовь!</title>
-      <link>/podcast/2015/03/24/issue21/</link>
+      <link>http://fpsiholog.org/podcast/2015/03/24/issue21/</link>
       <pubDate>Tue, 24 Mar 2015 09:18:00 +0300</pubDate>
       
-      <guid>/podcast/2015/03/24/issue21/</guid>
+      <guid>http://fpsiholog.org/podcast/2015/03/24/issue21/</guid>
       <description>&lt;p&gt;Подкаст в не совсем обычном формате.&lt;br&gt;
 Немного про музыку, немного про любовь и конечно же ответы на ваши вопросы.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;audiocontent&#34;&gt;
   &lt;audio controls preload=&#34;auto&#34; style=&#34;width:100%;height:100%;&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;
-    &lt;source src=&#34;/podcast/issue21.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
+    &lt;source src=&#34;http://fpsiholog.org/podcast/issue21.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
     Ваш браузер не поддерживает воспроизведение аудио(HTML5).
   &lt;/audio&gt;
-  &lt;a href=&#34;/podcast/issue21.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
+  &lt;a href=&#34;http://fpsiholog.org/podcast/issue21.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Выпуск 16. Как остаться собой и не потеряться в этом мире — обида</title>
-      <link>/podcast/2014/11/20/issue16/</link>
+      <link>http://fpsiholog.org/podcast/2014/11/20/issue16/</link>
       <pubDate>Thu, 20 Nov 2014 14:55:00 +0300</pubDate>
       
-      <guid>/podcast/2014/11/20/issue16/</guid>
+      <guid>http://fpsiholog.org/podcast/2014/11/20/issue16/</guid>
       <description>&lt;p&gt;Поговорим об обидах.&lt;br&gt;
 Поговорим о работе.&lt;br&gt;
 Ответы на ваши вопросы.&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;audiocontent&#34;&gt;
   &lt;audio controls preload=&#34;auto&#34; style=&#34;width:100%;height:100%;&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;
-    &lt;source src=&#34;/podcast/issue16.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
+    &lt;source src=&#34;http://fpsiholog.org/podcast/issue16.mp3&#34; type=&#34;audio/mpeg&#34; &gt;
     Ваш браузер не поддерживает воспроизведение аудио(HTML5).
   &lt;/audio&gt;
-  &lt;a href=&#34;/podcast/issue16.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
+  &lt;a href=&#34;http://fpsiholog.org/podcast/issue16.mp3&#34; target=&#34;_blank&#34;&gt;Скачать&lt;/a&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
     </item>
